@@ -1,5 +1,3 @@
-import SelfImage from "../public/Mason-139.jpg"
-
 export default function Home() {
     return (
       <div className="bg-violet-200 min-h-screen absolute w-full">
@@ -7,7 +5,7 @@ export default function Home() {
             <div className="w-[50vh] h-[50vh] flex-shrink-0 ml-20 mt-20 rounded-full border-4 border-violet-950 overflow-hidden">
             <img
                 className="w-full h-full object-cover object-[center_-10px]"
-                src={SelfImage}
+                src="/portfolio/Mason-139.jpg"
                 alt="Self portrait"
             />
             </div>
