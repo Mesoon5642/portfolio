@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.58a5be01.css",
+    "main.js": "/personal-website/static/js/main.40d48a14.js",
+    "static/js/453.1407b060.chunk.js": "/personal-website/static/js/453.1407b060.chunk.js",
+    "static/media/Mason-139.jpg": "/personal-website/static/media/Mason-139.8f6182df819bd196af18.jpg",
+    "index.html": "/personal-website/index.html",
+    "main.58a5be01.css.map": "/personal-website/static/css/main.58a5be01.css.map",
+    "main.40d48a14.js.map": "/personal-website/static/js/main.40d48a14.js.map",
+    "453.1407b060.chunk.js.map": "/personal-website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a5be01.css",
+    "static/js/main.40d48a14.js"
+  ]
+}
